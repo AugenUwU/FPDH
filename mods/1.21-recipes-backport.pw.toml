@@ -1,0 +1,13 @@
+name = "1.21.6 Recipes Backport"
+filename = "1.21-recipes-backport-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tEZRMLMm/versions/dN8iqfZK/1.21-recipes-backport-1.0.2.jar"
+hash-format = "sha512"
+hash = "3e793207a7930dac8589194a7f27e56cd7f535fc998214eae4aff2da9bc108488ad6413eb3ab60b5c9dcb3c42830a0918a0e482324b8f00f6e7bd52f5a1db130"
+
+[update]
+[update.modrinth]
+mod-id = "tEZRMLMm"
+version = "dN8iqfZK"

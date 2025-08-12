@@ -1,0 +1,13 @@
+name = "Crops XP"
+filename = "crops_xp-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/YGghB4aT/versions/UOZdTKTZ/crops_xp-1.0.0.jar"
+hash-format = "sha512"
+hash = "5881af5e2ee2843f238b134f166e9771c702b0c66af95a04097b7398121fcf4c1bcd112190334d33041f1fadd5d71aacc88e99ad28ea9f49d8b626594ce14c1f"
+
+[update]
+[update.modrinth]
+mod-id = "YGghB4aT"
+version = "UOZdTKTZ"

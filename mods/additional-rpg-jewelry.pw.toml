@@ -1,0 +1,13 @@
+name = "Additional Jewelry"
+filename = "additional_rpg_jewelry-2.1.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rULzJh3O/versions/meO7G4ik/additional_rpg_jewelry-2.1.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "328b3c514d64e73f31a125ea9722ceb3f1d8b71b424424c2b199ecab845059cbebc171a1bd5fc200c404a9fae6e0950dafdce6b0c4b20c50f673cfb6d9f29b1c"
+
+[update]
+[update.modrinth]
+mod-id = "rULzJh3O"
+version = "meO7G4ik"

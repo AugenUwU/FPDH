@@ -1,0 +1,13 @@
+name = "Jaiz Mod"
+filename = "jaizmod-1.0.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3gxttRlS/versions/xLUwlF1m/jaizmod-1.0.5.1.jar"
+hash-format = "sha512"
+hash = "6184267b445f870e9a10a9c1a8d1516841b38723c93ee1158ef8b7431089215fedfaa6e93438ebc5626ed1e539ccd51f24a8f35a7c2b647f4a8c620bfcb7655e"
+
+[update]
+[update.modrinth]
+mod-id = "3gxttRlS"
+version = "xLUwlF1m"

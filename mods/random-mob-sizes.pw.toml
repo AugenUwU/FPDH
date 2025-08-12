@@ -1,0 +1,13 @@
+name = "Random Mob Sizes"
+filename = "randommobsizes-fabric-1.21.1-2.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ccz0Dj7d/versions/ToOBKL2y/randommobsizes-fabric-1.21.1-2.2.2.jar"
+hash-format = "sha512"
+hash = "ac43a360ad9c27f09478d485197d96192375fcb5c212be00840e755be6c40417150400fdddd8c850c6ae5b90544427301b26ceeac5e7cfea0240186f546df395"
+
+[update]
+[update.modrinth]
+mod-id = "ccz0Dj7d"
+version = "ToOBKL2y"

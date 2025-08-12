@@ -1,0 +1,13 @@
+name = "Legendary Item"
+filename = "[1.21.1] Legendary Item 24.10.09 (Fabric).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uoXnS5LM/versions/q0NBDxYC/%5B1.21.1%5D%20Legendary%20Item%2024.10.09%20%28Fabric%29.jar"
+hash-format = "sha512"
+hash = "0522c508795f6f47d85f3de73810bb728a81ef7b7952c0f6767186d65e35aa56d7ec7be91ef9379ecde79c27be8c980cd93d4367510d3eda2cf16d48bd228045"
+
+[update]
+[update.modrinth]
+mod-id = "uoXnS5LM"
+version = "q0NBDxYC"

@@ -1,0 +1,13 @@
+name = "EpheroLib"
+filename = "EpheroLib-FABRIC-1.2.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DIIgdJzf/versions/i8AlgBAT/EpheroLib-FABRIC-1.2.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "1e63b3adf22c1f923c9bcb032cfc7d4f907485fc54fd5df75c19f1ec9658ee0419a99711afd14484f48f76b613ad5290a6daba112dd9bffa3c2ecb01c07475d7"
+
+[update]
+[update.modrinth]
+mod-id = "DIIgdJzf"
+version = "i8AlgBAT"

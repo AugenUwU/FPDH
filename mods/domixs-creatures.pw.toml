@@ -1,0 +1,13 @@
+name = "Domix's Creatures"
+filename = "domixs-creatures-1.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8D2MjDHD/versions/aFpJrhmL/domixs-creatures-1.7.1.jar"
+hash-format = "sha512"
+hash = "86b2240109b41c9d833c68126efb4981bc8832b88030830ee8052b41056af95700b3bb969f5277225724d5070f4818924e0ff67236775ec7eec68a8193fd637f"
+
+[update]
+[update.modrinth]
+mod-id = "8D2MjDHD"
+version = "aFpJrhmL"

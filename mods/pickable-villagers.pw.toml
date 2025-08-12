@@ -1,0 +1,13 @@
+name = "Pickable Villagers"
+filename = "PickableVillagers-2.1.5+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lMRqnKVq/versions/5k9kZrdK/PickableVillagers-2.1.5%2B1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "04a14ad5dcde7bde17f32af8c5c4e1d93d3cd1c5b8f8b531e5f1954898f0ca0653e4b4007cd687f52a6d28fb032156634a9caa7c443084b1013f10368a47887e"
+
+[update]
+[update.modrinth]
+mod-id = "lMRqnKVq"
+version = "5k9kZrdK"

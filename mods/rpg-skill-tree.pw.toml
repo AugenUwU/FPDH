@@ -1,0 +1,13 @@
+name = "RPG skill tree"
+filename = "RPG Skill Tree 1.20-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6sAmNFuE/versions/Rk8AL34S/RPG%20Skill%20Tree%201.20-1.21.1.jar"
+hash-format = "sha512"
+hash = "083cf312e337a4751e1badfbc967d872dd71ba8ae5b79fbf0eb882b485062253cde90be1146137f7e31214d51482d092c6aee6cf4fcfb30c460c84ee15373e4d"
+
+[update]
+[update.modrinth]
+mod-id = "6sAmNFuE"
+version = "Rk8AL34S"

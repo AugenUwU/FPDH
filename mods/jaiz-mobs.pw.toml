@@ -1,0 +1,13 @@
+name = "Jaiz Mobs"
+filename = "jaizmobs-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DIJIg3Ip/versions/7xVFgMaS/jaizmobs-1.0.0.jar"
+hash-format = "sha512"
+hash = "db72f84f7175adcf36ddd1d4645e01d53583f822499edfb056d3a52ea51cf4887d59322793ecbfcd95d6dad0b5055a9897d4baf67459ed0697ed825727d76b91"
+
+[update]
+[update.modrinth]
+mod-id = "DIJIg3Ip"
+version = "7xVFgMaS"

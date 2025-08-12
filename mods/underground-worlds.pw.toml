@@ -1,0 +1,13 @@
+name = "Underground Worlds"
+filename = "undergroundworlds-fabric-21.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g9fDJQZe/versions/bFTp5J2b/undergroundworlds-fabric-21.1.0.jar"
+hash-format = "sha512"
+hash = "2052996ebeec7686829a38607f1f9a0094a6a831af2382639c3629dc4e3c07ecaf0aaef963357e66f990382093df4fd8f71de1b3b7c6f23d1c14d60741736e63"
+
+[update]
+[update.modrinth]
+mod-id = "g9fDJQZe"
+version = "bFTp5J2b"

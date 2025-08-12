@@ -1,0 +1,13 @@
+name = "Pommel - Held Item Models"
+filename = "pommel-held-items-1.2.0+1.21.x.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fsc3VDsD/versions/tzUGvFcI/pommel-held-items-1.2.0%2B1.21.x.jar"
+hash-format = "sha512"
+hash = "bbb16158ffc74ea76628b4832dd70453ede60f6cd6f2164a521e512bcbdfa4fffd7670a341836fb619110efb18f19ba1ca80b3d3f6ca679c5edf12df4ef0ab95"
+
+[update]
+[update.modrinth]
+mod-id = "fsc3VDsD"
+version = "tzUGvFcI"

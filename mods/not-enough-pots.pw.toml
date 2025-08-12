@@ -1,0 +1,13 @@
+name = "Not Enough Pots"
+filename = "notenoughpots-1.21-fabric-1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KICpzgMG/versions/MU5mAuJO/notenoughpots-1.21-fabric-1.3.jar"
+hash-format = "sha512"
+hash = "f67bd82329b0779d1d058c76423ec7ebfa05c69ee2a39d3e4ea9c223f258f8d4cd2183caec6229d4aa183e0b305c4b14c4591d07b7d83fa1ca46525fc38a68a9"
+
+[update]
+[update.modrinth]
+mod-id = "KICpzgMG"
+version = "MU5mAuJO"

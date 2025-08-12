@@ -1,0 +1,13 @@
+name = "Happy Ghast Legacy"
+filename = "happy_ghast_legacy-1.8-1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zi5opIfD/versions/HzOADV7g/happy_ghast_legacy-1.8-1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "3d1436e1211f6d012ad9e9ffd368adbb7b62ea9eb2f49feca6241ad9384a9e132a358240b3abd918d5987301890ef9c07a8494d558f9890c7adcbc68f25d9906"
+
+[update]
+[update.modrinth]
+mod-id = "zi5opIfD"
+version = "HzOADV7g"

@@ -1,0 +1,13 @@
+name = "LNE Rogues Add-On"
+filename = "lne_rogues-1.0.2-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JEvQhsp7/versions/mBTwYoYU/lne_rogues-1.0.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "ce4b44c973c7f6bbb3dad5cc1d86465b0b36ae551a1c8b193e7cbc8c4ffa41d5352edad450079c16e0c99711582b9ff570f84c2896ad5737ff9b2463eb4c3300"
+
+[update]
+[update.modrinth]
+mod-id = "JEvQhsp7"
+version = "mBTwYoYU"
