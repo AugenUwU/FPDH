@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "f08547e7bc33c27d6ced27aeff2d7092e14c682031884fc3fd28240c619940d4"
+
+[[files]]
 file = "mods/1.21-recipes-backport.pw.toml"
 hash = "07e95e7d2104fd32c60e1d3939842df825389b070b1b46135b6640b3568aa5d5"
 metafile = true
