@@ -335,6 +335,11 @@ hash = "be7918d29b7fc9f820b6574f3906c1d1decc0fd485d55db5f408429e02bf70b1"
 metafile = true
 
 [[files]]
+file = "mods/cerulean.pw.toml"
+hash = "a0d25d17465d8883262f9e0645b9876de0af1aa20229db53d3ad639a2c20be2c"
+metafile = true
+
+[[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "65976f27dd6de19c602d836a0327833d3ba201ae763e248bd642370b0c8b5dad"
 metafile = true
@@ -412,11 +417,6 @@ metafile = true
 [[files]]
 file = "mods/clutter.pw.toml"
 hash = "cb161d03e71e6cab17bcca9d39d894b0d0d855d84632b05b809397d44ff4ac08"
-metafile = true
-
-[[files]]
-file = "mods/cobweb.pw.toml"
-hash = "fa767604387c15268ae565381b68afcfe39c7284d24fd5e08c76c6e6ca8da2eb"
 metafile = true
 
 [[files]]
@@ -1415,6 +1415,11 @@ hash = "50bcb908cc2d2220e9b69ccd05427c2cca89df411e1e8232b21ea6ab5a9e21d1"
 metafile = true
 
 [[files]]
+file = "mods/on-soul-fire.pw.toml"
+hash = "460905660fb355ffb970de6bc76298cc216bf61c1a7343ffd815441476d84b61"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "5501d478ef5237f12cf0a2e4b683954cf1482b43fdf090c6f5d9bec4409f3324"
 metafile = true
@@ -1812,11 +1817,6 @@ metafile = true
 [[files]]
 file = "mods/soul-candles.pw.toml"
 hash = "82a5aec14a1a4df4abee8bd9ff4944de5486f55d7c19ac21e0fb19f49760a4f6"
-metafile = true
-
-[[files]]
-file = "mods/soul-fire-d.pw.toml"
-hash = "8e674b075eb10973a9b5112314ca5bb532095d175455f308a57e3085f298059e"
 metafile = true
 
 [[files]]
