@@ -1037,7 +1037,7 @@ metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "8c6b70c5687944d95858a7da9311a268725bc613e1d0f10dae4687faf9fb7ad5"
+hash = "885976c7e80d47800b5fe6dc614097772cc88f908160abd50fcdebcda7e1270c"
 metafile = true
 
 [[files]]
@@ -2043,6 +2043,11 @@ metafile = true
 [[files]]
 file = "mods/universal_ores.pw.toml"
 hash = "a423853e756d6927d302924d48a30d8decce24803b1a68d22372bc84fbad9697"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-refresh.pw.toml"
+hash = "08adb73786ed18c7c56c7e89baebc13979ddffe9afb9bd8dd93655c7dfd17640"
 metafile = true
 
 [[files]]
