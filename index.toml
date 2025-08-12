@@ -5,6 +5,38 @@ file = "config/fabric_loader_dependencies.json"
 hash = "f08547e7bc33c27d6ced27aeff2d7092e14c682031884fc3fd28240c619940d4"
 
 [[files]]
+file = "config/invmove/unrecognized.json"
+hash = "7db257c28e79f0f1b2913fd40c25938458ee7a6a409f0b2547c1c670ec3b9f30"
+
+[[files]]
+file = "config/kiwi-client.yaml"
+hash = "c5c0cc30c3aafe719bbf50a90b6d6498b879a8a526b51ce187202b927cff0501"
+
+[[files]]
+file = "config/passablefoliage-common.yaml"
+hash = "c38c6a21b7c98c52db5ac0ef7dcd9ce797144461eefce55fa9f52899f13da73c"
+
+[[files]]
+file = "config/shouldersurfing-client.toml"
+hash = "72cf41145a082b899ae41134784163bd683c88b8788a42d3b0f0dee4d59dfdde"
+
+[[files]]
+file = "config/spawnermod.json"
+hash = "842cea2745b4cae5c7c2a0032604bfa9760c311c1e9545bea448dd594ee6de6e"
+
+[[files]]
+file = "config/veinmining-client.toml"
+hash = "e9153f6237c142bb22c893e6b096a93e40108c82da1ff27f8197e4d8b5ca39a3"
+
+[[files]]
+file = "config/veinmining-server.toml"
+hash = "2f7e4bc7b59da8ed6cb97f7a77649f1b38323d9e79e8c3a80d278ad7fe815bad"
+
+[[files]]
+file = "config/wover/client.json"
+hash = "05694b36ea3e20081b55434a7e6da5cc08bf4e9a530ad3bcd0bf73dc81673b8b"
+
+[[files]]
 file = "mods/1.21-recipes-backport.pw.toml"
 hash = "07e95e7d2104fd32c60e1d3939842df825389b070b1b46135b6640b3568aa5d5"
 metafile = true

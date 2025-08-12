@@ -1,0 +1,8 @@
+{
+  "allowMovement": {
+    "betteradvancements.common.gui.BetterAdvancementsScreen": true,
+    "de.maxhenkel.voicechat.gui.onboarding.IntroductionOnboardingScreen": true,
+    "xaero.map.gui.GuiMap": true
+  },
+  "hideBackground": {}
+}
