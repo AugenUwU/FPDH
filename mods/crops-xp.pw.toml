@@ -1,6 +1,6 @@
 name = "Crops XP"
 filename = "crops_xp-1.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/YGghB4aT/versions/UOZdTKTZ/crops_xp-1.0.0.jar"

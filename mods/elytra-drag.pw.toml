@@ -1,6 +1,6 @@
 name = "Elytra Drag"
 filename = "elytra-drag-0.4-1.21+.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/c9J3k0tK/versions/b71UOJt2/elytra-drag-0.4-1.21%2B.jar"

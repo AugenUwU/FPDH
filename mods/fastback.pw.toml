@@ -1,6 +1,6 @@
 name = "Fast Backups"
 filename = "fastback-0.20.0+1.21.1-fabric.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZHKrK8Rp/versions/Rhplybe8/fastback-0.20.0%2B1.21.1-fabric.jar"
