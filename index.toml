@@ -1707,6 +1707,11 @@ hash = "a6b41507d308b48c7a5fb686df16f7ff2e0518ca7f53cfef6f5ae0ac3a4e4731"
 metafile = true
 
 [[files]]
+file = "mods/revelationary.pw.toml"
+hash = "0b25da65d50ae21fed48187f30a1f402e796bc8b6211f5e6f4910295df624069"
+metafile = true
+
+[[files]]
 file = "mods/roguelikedungeons.pw.toml"
 hash = "f5a12030b2fc91c87d09bfab6653cb010b29b1a10b26e164e0b21627d925383d"
 metafile = true
@@ -1869,6 +1874,16 @@ metafile = true
 [[files]]
 file = "mods/sparsestructures.pw.toml"
 hash = "50048120fc7deb3cd683e15ccadb91da64efc3710d66906c059230b5970ec10f"
+metafile = true
+
+[[files]]
+file = "mods/spectral-decorations.pw.toml"
+hash = "0f6e21d6c1e4ef066ccfac623d9f4ab33bfc5d5d5dfb7141e503bafcdff7e3b9"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "c68378e4eabc9e9587f73171d72c13d8c9ab0a600582ffe5e32fba7dc2ad2ec5"
 metafile = true
 
 [[files]]
