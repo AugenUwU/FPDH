@@ -1,6 +1,11 @@
 {
 	"version": 1,
 	"overrides": {
+		"oritech": {
+			"-requires": {
+				"athena": "IGNORED"
+			}
+		},
 		"sodium": {
 			"-breaks": {
 				"betterend": "IGNORED"
