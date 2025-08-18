@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "61202a3fff5bbf52e23203c4af24904ca1e6a97b06aca84ee9bfd36ea5bd04a7"
+hash = "9538a68a6c444b260cf6e71470d9f7dd2269d48261fd4c0afa6c1c846d8d4abc"
 
 [[files]]
 file = "config/invmove/unrecognized.json"

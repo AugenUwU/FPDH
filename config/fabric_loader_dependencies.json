@@ -2,7 +2,7 @@
 	"version": 1,
 	"overrides": {
 		"oritech": {
-			"-requires": {
+			"-depends": {
 				"athena": "IGNORED"
 			}
 		},
