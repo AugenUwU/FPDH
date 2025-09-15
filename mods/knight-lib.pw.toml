@@ -1,13 +1,13 @@
 name = "Knight Lib"
-filename = "knightlib-fabric-1.21-1.2.0.jar"
+filename = "knightlib-fabric-1.21.1-1.3.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hAnl9nbm/versions/SQrrzGcX/knightlib-fabric-1.21-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/hAnl9nbm/versions/l5vR0m3g/knightlib-fabric-1.21.1-1.3.0.jar"
 hash-format = "sha512"
-hash = "f599297cbf6e325e081dda0f9b979d358ca847b71e5a212fa3662f09cb903bcd6a6608651e419e8fc8117b8d273c133ced0470a102abbcc1fed7f3b7d934a0a4"
+hash = "8b9b31e1009a5c950de109b21aef4b78a2f6b7b3bad9460f058c578a0de4a2a1bb7ef739f56379580bb1a76e97974251a15cdef9548301177c8026e5b978beb8"
 
 [update]
 [update.modrinth]
 mod-id = "hAnl9nbm"
-version = "SQrrzGcX"
+version = "l5vR0m3g"

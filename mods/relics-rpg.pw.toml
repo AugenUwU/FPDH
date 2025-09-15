@@ -1,13 +1,13 @@
 name = "Relics (RPG Series)"
-filename = "relics-1.0.7+1.21.1.jar"
+filename = "relics-1.0.9+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/BDQucwF0/versions/96j2YZvI/relics-1.0.7%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/BDQucwF0/versions/KBeVu6Yb/relics-1.0.9%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "6af62eb445b0f220447a344ca251afed7f1b73d366a941a8200f09b81586477d618bd606a09640e3e972348eafbcdea75caf87af5e54328ce901ef293d31c6b0"
+hash = "88652e7bac8c708161a98a6c99d09850634663c92a922d5a8dd5f4881836367eaa18aaecfdf75472bb35801d1c846d6fa96d06906834874880b9fc12f9ffda58"
 
 [update]
 [update.modrinth]
 mod-id = "BDQucwF0"
-version = "96j2YZvI"
+version = "KBeVu6Yb"

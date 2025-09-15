@@ -1,13 +1,13 @@
 name = "Oracle Index"
-filename = "oracle_index-fabric-0.4.0.jar"
+filename = "oracle_index-fabric-0.4.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/J8MMsNrL/versions/dU7Hqt0a/oracle_index-fabric-0.4.0.jar"
+url = "https://cdn.modrinth.com/data/J8MMsNrL/versions/41U4CYAY/oracle_index-fabric-0.4.1.jar"
 hash-format = "sha512"
-hash = "12495543e75516bca47901423755ed323b3d02fb919b666d86761c9831763c4189d8b1563cb3465d571f17efb08f23cd5757a534209762109ef36ad7dd00f0a2"
+hash = "9eb4ddd5ec921147caca0429783d92d1785074429df31fd40b99049b62964da97561b4dd1dbe0ef1541fb56f638759bf1b0591d3d1f046bde760ff0e03168c1e"
 
 [update]
 [update.modrinth]
 mod-id = "J8MMsNrL"
-version = "dU7Hqt0a"
+version = "41U4CYAY"

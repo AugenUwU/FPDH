@@ -1,13 +1,13 @@
 name = "Arsenal (RPG Series)"
-filename = "arsenal-1.2.0+1.21.1.jar"
+filename = "arsenal-1.2.1+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LiP9Q3KV/versions/y4gfnkri/arsenal-1.2.0%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/LiP9Q3KV/versions/2lGFINX2/arsenal-1.2.1%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "2482e7fef6c59e7a8676a24dda04b06ccddaeada650431a4ad0b0da34aabec1d8db16aaae9b7a4bfcf051c66ad613879fabdd66e09d05de6e6e8b9ef5ace2cee"
+hash = "2f341e450f8c639b412f4ab37ce99c4751f94d2551da107cf6919573cf902792b5549cf1bc1db62b7d9f119460a9ce06d1a967252f78b775b48196055c08e98b"
 
 [update]
 [update.modrinth]
 mod-id = "LiP9Q3KV"
-version = "y4gfnkri"
+version = "2lGFINX2"

@@ -1,13 +1,13 @@
 name = "Archers Expansion (More RPG Classes)"
-filename = "archers-expansion-1.3.9-1.21.1.jar"
+filename = "archers-expansion-1.3.10-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1BHIIm4m/versions/rAzh04PQ/archers-expansion-1.3.9-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/1BHIIm4m/versions/WeITkn46/archers-expansion-1.3.10-1.21.1.jar"
 hash-format = "sha512"
-hash = "3d232708d5a8a38e1d0227d6f81b65049ce0b85268dfaeb2389c73d79eba168956466fd00d19cbb3085d3e8b36c43ab89c0c22dd46ea648c834d09ae2abedacb"
+hash = "488259a6fab69e34d48445c8b8dbcaf27ad86f467eadf3862f217d5235f7246d338cd87dd2f7c92f5d4df804bb7993b207d9adac98366ccfef8cae07b5706370"
 
 [update]
 [update.modrinth]
 mod-id = "1BHIIm4m"
-version = "rAzh04PQ"
+version = "WeITkn46"

@@ -1,13 +1,13 @@
 name = "Knight Quest"
-filename = "knightquest-fabric-1.21-1.8.7.jar"
+filename = "knightquest-fabric-1.21.1-1.9.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/VEOQ4Jz4/versions/AAPIEisR/knightquest-fabric-1.21-1.8.7.jar"
+url = "https://cdn.modrinth.com/data/VEOQ4Jz4/versions/ytzxIAIs/knightquest-fabric-1.21.1-1.9.0.jar"
 hash-format = "sha512"
-hash = "febbef8bfe978bc2e3bccf14e4b59be710a30ff2929ffe7038f3ec70ec865e5519e48b1ccb04ca2717b31705e1e84b2fed555637a2e1b9ea6129a988154c76cd"
+hash = "410eba92a96f4221b04eed14d02b4bfee74feefe59be0baded83c0252eefb6ef8a328eae596ad93f99c42d5d478763a61fa4e4f3464cb99372c42092aad1ca3a"
 
 [update]
 [update.modrinth]
 mod-id = "VEOQ4Jz4"
-version = "AAPIEisR"
+version = "ytzxIAIs"

@@ -1,13 +1,13 @@
 name = "LNE Paladins Add On"
-filename = "lne_paladins-1.0.5-1.21.1.jar"
+filename = "lne_paladins-1.0.6-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ysICqMga/versions/wIMHgKPU/lne_paladins-1.0.5-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/ysICqMga/versions/IXdRxLeY/lne_paladins-1.0.6-1.21.1.jar"
 hash-format = "sha512"
-hash = "c07b991308b9e4c06ef908b028e856256a011fe3558604197b1e08251e4f9acc52a54b3abc8205bcdc22a09b4b3625f12fbb8fb92adae7502a65e0cff942542b"
+hash = "90370d810f85156e4276f789af393fff5c261bc35aa54a37cec23bc428ccb351f32b94a9f538d55a893f129b6589c59b79f1c6f73c5c2ecaba76046e7667e9c6"
 
 [update]
 [update.modrinth]
 mod-id = "ysICqMga"
-version = "wIMHgKPU"
+version = "IXdRxLeY"

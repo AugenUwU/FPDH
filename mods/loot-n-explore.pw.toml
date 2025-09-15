@@ -1,13 +1,13 @@
 name = "Loot & Explore (More RPG Content)"
-filename = "loot_n_explore-1.0.13-1.21.1.jar"
+filename = "loot_n_explore-1.0.14-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GxOv67AE/versions/5lYDLl6V/loot_n_explore-1.0.13-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/GxOv67AE/versions/D8aXp1fP/loot_n_explore-1.0.14-1.21.1.jar"
 hash-format = "sha512"
-hash = "624009dae7db9fb37e9227c4cf72f01db14f3db193b50b05b55aee99dd955494091854ff37c9324e73ed64c6ad662570029a830930f16b4e4a8298b8b0d312cc"
+hash = "717fcc1ae6cb1e25fadb812c4fc80becbf71d35181fa6d1f18817a496c8fc5345c644f7b78a936d38da6b2690ea9051d94738b123b3a7bb3277ba179f95f26e8"
 
 [update]
 [update.modrinth]
 mod-id = "GxOv67AE"
-version = "5lYDLl6V"
+version = "D8aXp1fP"

@@ -1,13 +1,13 @@
 name = "Fishing Frontier"
-filename = "fishing-frontier-2.4.1.jar"
+filename = "fishing-frontier-2.4.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Jx0c12oz/versions/FeQSf7du/fishing-frontier-2.4.1.jar"
+url = "https://cdn.modrinth.com/data/Jx0c12oz/versions/ZyS663sT/fishing-frontier-2.4.2.jar"
 hash-format = "sha512"
-hash = "d98de4810f67412db8499d4993640407a07bfcac072b3f8e80d98abca87bf571f14eb1f29d1fc50fee3ae497c832ef1fb13b2a60bf377f21606558e06d4d2307"
+hash = "8932c59d41a4fdcab159da362720272f2f74bac274f09c8acd2e247c3d9cb34bf293d961b9c8d44049555a2bbd96504839e37816b6d8b478323628dce5357a36"
 
 [update]
 [update.modrinth]
 mod-id = "Jx0c12oz"
-version = "FeQSf7du"
+version = "ZyS663sT"

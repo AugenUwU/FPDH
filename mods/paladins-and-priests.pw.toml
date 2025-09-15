@@ -1,13 +1,13 @@
 name = "Paladins & Priests (RPG Series)"
-filename = "paladins-2.5.1+1.21.1.jar"
+filename = "paladins-2.5.3+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FxXkHaLe/versions/z5VPgfJr/paladins-2.5.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/FxXkHaLe/versions/RglVGCp3/paladins-2.5.3%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "b19e748daf9243f04c0daf579aab24721e362f6b8abdfc0781a069093e3364f4fa8010543834f505ea74e4f3e5971688e2b7eb16c939b77cab6c93deb922fc5c"
+hash = "94c44bee4b43015edfa696cd75d60f852421701ce098cbd915d43600cb37356b89c7021f93075ebd89a84e043b0e99f26ba95d7766a355cb332b6c34d7dbfe96"
 
 [update]
 [update.modrinth]
 mod-id = "FxXkHaLe"
-version = "z5VPgfJr"
+version = "RglVGCp3"
