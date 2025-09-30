@@ -1548,7 +1548,7 @@ metafile = true
 
 [[files]]
 file = "mods/pickable-villagers.pw.toml"
-hash = "413b8d6f8558befcc4a8bd2fbdbc16d702ec5b60b7df864e11f5cf1e49f4e066"
+hash = "0c8daa87671a69a9dcd498840989ea63573683190efaf756b0413808a6c0fe27"
 metafile = true
 
 [[files]]
