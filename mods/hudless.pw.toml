@@ -1,13 +1,13 @@
 name = "Hudless"
-filename = "Hudless-2.0.2+1.21.1.jar"
+filename = "Hudless-2.0.4+1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WFafWXGF/versions/h7qWhkQC/Hudless-2.0.2%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/WFafWXGF/versions/JMurYTRH/Hudless-2.0.4%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "79eb6985a84f2db447db9a57f9754bd96bc43e85f8d76aedc3d83b62f392e42a0f5a1478cc4ff1d658363da81048488452b746671d4a51f899f5930ea775e3dc"
+hash = "467acc7b34488fe9f180809e7bccf251c3c4b79d5621ee98ec91c1eb62dfa0d179ad5d51b7fa0c8b39925381e746fb615b5bf2966d9a04e173cfb7b62f25f68e"
 
 [update]
 [update.modrinth]
 mod-id = "WFafWXGF"
-version = "h7qWhkQC"
+version = "JMurYTRH"

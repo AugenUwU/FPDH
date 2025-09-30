@@ -1,13 +1,13 @@
 name = "More RPG Library"
-filename = "more_rpg_classes-2.3.4-1.21.1.jar"
+filename = "more_rpg_classes-2.4.3-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Wkc3lwHo/versions/yUJxjfvW/more_rpg_classes-2.3.4-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/Wkc3lwHo/versions/tNReJq7d/more_rpg_classes-2.4.3-1.21.1.jar"
 hash-format = "sha512"
-hash = "8e9f1f1b374d39632de1dae534bddfced7f0583e1eeabe99bea3b791a6e75caca9c15c695576e2587cad7e4796cd9182ab329c8a68832de785ce26e33a4326c3"
+hash = "4a1156673bbdec072f9f1316a0e728dca9952c42620249ce4226386c3f1891d07fdccaa464804031b3c6046c89bc006e0ddb381042b5edb1d6a8e494919e1fe7"
 
 [update]
 [update.modrinth]
 mod-id = "Wkc3lwHo"
-version = "yUJxjfvW"
+version = "tNReJq7d"

@@ -1,13 +1,13 @@
 name = "LNE Wizards Add-On"
-filename = "lne_wizards-1.0.5-1.21.1.jar"
+filename = "lne_wizards-1.0.6-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vukREL4F/versions/lQt3rw01/lne_wizards-1.0.5-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/vukREL4F/versions/Eh0dBpLY/lne_wizards-1.0.6-1.21.1.jar"
 hash-format = "sha512"
-hash = "fa3f1a367f2950e587865b5a2c80e3e0c9427f63cb852f21a6060e9981dd1ab123672339c1fd8a6e942be0145b8853a8aa7352f7ea7626122dd1448e3dd3976a"
+hash = "9ec397616e3b728ce99a3888cdb583a64911f6c5dca0e8feb31128c1f9e8e5bc1ca6beae7f8ff6ed7036fe72cb8e31a8a05a56eb6d4ff08f6d5185f857fda72c"
 
 [update]
 [update.modrinth]
 mod-id = "vukREL4F"
-version = "lQt3rw01"
+version = "Eh0dBpLY"
