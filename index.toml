@@ -92,6 +92,11 @@ hash = "27da7a067a8d3babfd3e5b448d8d93820bb2f9177e50a979ce680d374176c0a9"
 metafile = true
 
 [[files]]
+file = "mods/alexandria.pw.toml"
+hash = "cfc142fa3d6cf1e5b3b1e1cc022aefeaf6480b7f65b145a7dde8f3f81e8fefbb"
+metafile = true
+
+[[files]]
 file = "mods/allay_upgrades.pw.toml"
 hash = "95a3c851ff40bca451a4c90d15d857be6d662dcd2c2586dc47a4a8a512b8a126"
 metafile = true
@@ -138,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
+hash = "39792a11da59cebc770f3918dd0ad53637bcbd206dc19bfa6709392bfd2d1830"
 metafile = true
 
 [[files]]
@@ -733,7 +738,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "da9fbdce468fbfa6bd5a7ceb15465780e3e8fda9535d16f40a81343621e627a7"
+hash = "8ab145d5746ea395c37aeb7c48d3da6c60664c9c3a172e433892978c809a6ec3"
 metafile = true
 
 [[files]]
