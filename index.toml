@@ -1128,7 +1128,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "916cb9c629a02dd0499478b09dcb4d85cd7c329b7badad0bd6fdcb960d847428"
+hash = "5467b89dc4f231afbbd926bae69cfa0dab9ffc05fdbab933fb840bb80b53c95d"
 metafile = true
 
 [[files]]
@@ -1548,7 +1548,7 @@ metafile = true
 
 [[files]]
 file = "mods/pickable-villagers.pw.toml"
-hash = "0c8daa87671a69a9dcd498840989ea63573683190efaf756b0413808a6c0fe27"
+hash = "dc1470d31e4d1ed4c0527ce14cb89843f6e9230b5acd9c8356dac3b76af77892"
 metafile = true
 
 [[files]]

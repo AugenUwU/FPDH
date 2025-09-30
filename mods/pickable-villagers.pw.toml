@@ -1,6 +1,7 @@
 name = "Pickable Villagers"
 filename = "PickableVillagers-2.1.5+1.21.1-fabric.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/lMRqnKVq/versions/5k9kZrdK/PickableVillagers-2.1.5%2B1.21.1-fabric.jar"
